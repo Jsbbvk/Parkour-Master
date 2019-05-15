@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mesh>
+    <sharedgeometry vertexcount="__TO_BE_REPLACED_VERTEX_COUNT__">
+        <vertexbuffer colours_diffuse="False" normals="true" positions="true" texture_coords="1">
+            <vertex>
+                <position x="-0.000000" y="-0.369241" z="0.995940"/>
+                <normal x="-0.000000" y="-0.012452" z="0.999908"/>
+                <texcoord u="0.815444" v="0.126189"/>
+            </vertex>
+            <vertex>
+                <position x="-0.000000" y="-0.280994" z="0.996740"/>
+                <normal x="-0.000000" y="-0.006684" z="0.999969"/>
+                <texcoord u="0.815146" v="0.140869"/>
+            </vertex>
+            <vertex>
+                <position x="-0.148077" y="-0.280992" z="0.996197"/>
+                <normal x="-0.007508" y="-0.006653" z="0.999939"/>
+                <texcoord u="0.839834" v="0.141642"/>
+            </vertex>

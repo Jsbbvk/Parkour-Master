@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scene author="Jacob" formatVersion="1.1" >
+  <nodes>
+  <node name="green_pears">
+      <position x="0" y="5" z="6" />
+      <rotation qw="0.795886" qx="-0.523094" qy="0.251596" qz="0.172156" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+       <entity name="green_pears" meshFile="green_pears.mesh"/>
+    </node>
+  </nodes>
+  <externals>
+    <item type="material">
+      <file name="green_pears.material"/>
+    </item>
+  </externals>
+  <environment>
+    <colourAmbient b="0.0" g="0.0" r="0.0" />
+    <colourBackground b="0.7105407118797302" g="0.7105407118797302" r="0.7105407118797302" />
+  </environment>
+</scene>
